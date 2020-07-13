@@ -1,10 +1,10 @@
-package com.network.pratice.tcp.echo.server;
+package com.network.pratice.tcp.echo.none.server;
 
 import javax.annotation.PreDestroy;
 
 import org.springframework.stereotype.Service;
 
-import com.network.pratice.tcp.echo.server.handler.EchoServerHandler;
+import com.network.pratice.tcp.echo.none.server.handler.EchoServerHandler;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

@@ -1,4 +1,4 @@
-package com.network.pratice.tcp.echo.none.server.handler;
+package com.network.pratice.tcp.echo.non.server.handler;
 
 import java.nio.charset.Charset;
 
